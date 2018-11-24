@@ -1,0 +1,1 @@
+refered_url="https://yiyibooks.cn/xx/Django_1.11.6/index.html"
